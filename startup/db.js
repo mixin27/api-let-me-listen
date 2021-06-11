@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const config = require("config");
 
-const { accessLog } = require("../utils/logger");
+const { accessLog } = require("../util/logger");
 
 module.exports = function () {
   const db = config.get("db");
