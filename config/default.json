@@ -1,0 +1,4 @@
+{
+    "db": "http://localhost/db",
+    "jwtPrivateKey": ""
+}
