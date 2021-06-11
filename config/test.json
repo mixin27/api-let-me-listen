@@ -1,3 +1,3 @@
 {
-    "db": "letme_listen_test"
+    "db": "mongodb+srv://norm:yZ7YiYbFiRBYDIqh@cluster0.c5muj.mongodb.net/lml_test?retryWrites=true&w=majority"
 }

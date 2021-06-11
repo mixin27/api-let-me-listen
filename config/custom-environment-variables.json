@@ -1,4 +1,3 @@
 {
-    "jwtPrivateKey": "lml_jwtPrivateKey",
-    "db": "letme_listen"
+    "jwtPrivateKey": "lml_jwtPrivateKey"
 }
