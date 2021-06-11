@@ -4,7 +4,8 @@
   "description": "REST APIs for let me listen music store.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose"
+    "test": "jest --watchAll --verbose",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/ZattWine/api-let-me-listen#readme",
   "devDependencies": {
-    "jest": "^27.0.4"
+    "jest": "^27.0.4",
+    "nodemon": "^2.0.7"
   }
 }
