@@ -8,8 +8,8 @@ const songSchema = new mongoose.Schema({
     minlength: 5,
     maxlength: 50,
   },
-  length: {
-    type: Number,
+  url: {
+    type: String,
     required: true,
   },
 });
