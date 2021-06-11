@@ -1,0 +1,22 @@
+{
+  "name": "letme-listen",
+  "version": "1.0.0",
+  "description": "REST APIs for let me listen music store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZattWine/api-let-me-listen.git"
+  },
+  "author": "Kyaw Zayar Tun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZattWine/api-let-me-listen/issues"
+  },
+  "homepage": "https://github.com/ZattWine/api-let-me-listen#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
