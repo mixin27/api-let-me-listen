@@ -1,4 +1,4 @@
 {
-    "db": "mongodb+srv://norm:yZ7YiYbFiRBYDIqh@cluster0.c5muj.mongodb.net/lml?retryWrites=true&w=majority",
+    "db": "mongodb://localhost/lml",
     "jwtPrivateKey": ""
 }
